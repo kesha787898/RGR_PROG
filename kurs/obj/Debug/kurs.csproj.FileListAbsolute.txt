@@ -1,0 +1,18 @@
+C:\Users\alex\source\repos\kurs\kurs\bin\Debug\kurs.exe
+C:\Users\alex\source\repos\kurs\kurs\bin\Debug\kurs.pdb
+C:\Users\alex\source\repos\kurs\kurs\obj\Debug\kurs.csprojResolveAssemblyReference.cache
+C:\Users\alex\source\repos\kurs\kurs\obj\Debug\kurs.Form1.resources
+C:\Users\alex\source\repos\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\alex\source\repos\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.Cache
+C:\Users\alex\source\repos\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\kurs\kurs\obj\Debug\kurs.exe
+C:\Users\alex\source\repos\kurs\kurs\obj\Debug\kurs.pdb
+C:\Users\alex\Desktop\4 семестр\проектирование\ргр\kurs\kurs\bin\Debug\kurs.exe
+C:\Users\alex\Desktop\4 семестр\проектирование\ргр\kurs\kurs\bin\Debug\kurs.pdb
+C:\Users\alex\Desktop\4 семестр\проектирование\ргр\kurs\kurs\obj\Debug\kurs.Form1.resources
+C:\Users\alex\Desktop\4 семестр\проектирование\ргр\kurs\kurs\obj\Debug\kurs.Properties.Resources.resources
+C:\Users\alex\Desktop\4 семестр\проектирование\ргр\kurs\kurs\obj\Debug\kurs.csproj.GenerateResource.Cache
+C:\Users\alex\Desktop\4 семестр\проектирование\ргр\kurs\kurs\obj\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\4 семестр\проектирование\ргр\kurs\kurs\obj\Debug\kurs.exe
+C:\Users\alex\Desktop\4 семестр\проектирование\ргр\kurs\kurs\obj\Debug\kurs.pdb
+C:\Users\alex\Desktop\4 семестр\проектирование\ргр\kurs\kurs\obj\Debug\kurs.csprojResolveAssemblyReference.cache
