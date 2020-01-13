@@ -1,4 +1,4 @@
 Графический редактор, позволяющий накладывать попиксельные фильтры.
-![Иллюстрация к проекту](https://github.com/kesha787898/RGR_PROG/blob/master/image.png)
+![Иллюстрация к проекту](https://github.com/kesha787898/RGR_PROG/blob/master/title.png)
 
 
